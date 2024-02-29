@@ -14,7 +14,7 @@ $barang = array(
             padding-right: 20px;
         }
     </style>
-    <table>
+    <table class="table table-striped table-hover">
         <tr>
             <th>No</th>
             <th>Kode</th>
