@@ -17,9 +17,9 @@
             <p class="card-text">benim adim Mario, i love code and programming. U can reach me on:</p>
         </div>
         <ul class="list-group list-group-flush">
-            <li class="list-group-item">Github: <a href="https://github.com/AhmadMario02">Ahmad Mario</a></li>
-            <li class="list-group-item">Facebook: <a href="https://www.facebook.com/ahmadmario02">Ahmad Mario</a></li>
-            <li class="list-group-item">Pinterest: <a href="https://www.pinterest.com/vanluigidafirenze">Ahmad Mario</a></li>
+            <li class="list-group-item text-white bg-dark">Github: <a href="https://github.com/AhmadMario02" class="text-reset">Ahmad Mario</a></li>
+            <li class="list-group-item text-white bg-primary">Facebook: <a href="https://www.facebook.com/ahmadmario02" class="text-reset">Ahmad Mario</a></li>
+            <li class="list-group-item text-white bg-danger">Pinterest: <a href="https://www.pinterest.com/vanluigidafirenze" class="text-reset">Ahmad Mario</a></li>
         </ul>
     </div>
     <?php include "footer.php";?>
