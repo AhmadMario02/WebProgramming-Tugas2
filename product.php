@@ -9,8 +9,10 @@
 </head>
 <body>
     <?php include "header.php"?>
-    <h1>Daftar Produk</h1>
-    <?php include "./data/tabel_produk.php";?>
+    <div class="container">
+        <h1>Daftar Produk</h1>
+        <?php include "./data/tabel_produk.php";?>
+    </div>
     <?php include "footer.php";?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@523distjsbootstrapbundleminjs" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 </body>
